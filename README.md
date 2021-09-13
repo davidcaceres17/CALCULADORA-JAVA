@@ -1,0 +1,2 @@
+# CALCULADORA-JAVA
+Calculadora en lenguaje java para escritorio con las operaciones basicas, Guardando un historial por cada nueva operacion realizada y al crear nueva operacion identifica y guarda en la bitacor "Nuevo", se puede ingresar por medio de los botones o por medio de las teclas el teclado numerico reconociendo una tecla correcta hace un sonido "Beep",de lo contrario no reconoce culquier otra tecla.
